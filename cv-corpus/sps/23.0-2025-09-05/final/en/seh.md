@@ -6,8 +6,7 @@ for Sena (`seh`). The dataset contains 21 clips representing 1 hours of recorded
 speech (0 hours validated) from 1 speakers.
 
 ## Language
-<!-- {{LANGUAGE_DESCRIPTION}} -->
-<!-- Provide a brief (1-2 paragraph) description of your language -->
+<!-- The Sena language (hereinafter Cisena, N 44 in the Guthrie classification, 1967-71), is a language originally belonging to the Congo-Kordophonian (Niger-Congo) family of the Bantu group. In Mozambique the Sena language is spoken predominantly in the provinces of lower Zambezi, namely Sofala, Zambezia, Tete and Manica and in the far south of the Republic of Malawi. The record of the presence of Seine speakers in the region is documented with the designation of the Village of Seine, from 1561. In Mozambique the Sena language is spoken to about 1,551,684 speakers of five or more years of age (INE, 2017) according to https://pt.wikipedia.org/w/index.php?title=Centro_de_Estudos_de_L%C3%ADnguas_Mo%C3%A7ambicanas_(NELIMO)&action=edit&redlink=1  and in the Republic of Malawi it is spoken to about half a million people. The Cisena has the following variants: Sena Tonga, spoken in the north and center of Sofala, and in the borders of Tete and Zambezia; Sena Bangwe (“Sena do Sul”), spoken in the Beira area; Sena Phodzo, spoken between Sofala and Zambezia (from Marromeo, until Chinde) and Mopeia (in Zambezia); Sena Gombe, spoken in Caia, Mutarara, Chemba (coast), and Cheringoma and the coastal part of Zambezia; Sena Gorongozi, spoken in the Sierra Gorongosa area. The first grammar of the sena language was elaborated and printed in Chupanga (Marromeo), in 1900, by the french jesuit missionary and philologist Jules Torrend, in a trilingual edition in portuguese, sena and english. Two years earlier, the typography of this catholic mission had already produced a sena-portuguese catechism. In 1957, the first Portuguese-Sena-Portuguese dictionary was published in Beira. Since 2004, in Mozambique, the sena language has been part of bilingual education in rural schools in Sofala province, during the first five years of primary education, of the National Education System->
 
 ## Demographic information
 The dataset includes the following distribution of age and gender.
@@ -55,9 +54,24 @@ Self-declared age information, frequency refers to the number of clips annotated
 <!-- A description of the writing system (or writing systems) used in the text corpus -->
 
 #### Symbol table
-<!-- {{ALPHABET_TABLE}} -->
-<!-- @ OPTIONAL @ -->
-<!-- If the writing system is alphabetic, you can include the valid alphabet here -->
+Sena	AFI		Sena	AFI
+a	a		n	n
+b	ɓ		ng'	ŋ
+bh	b		ny	ɲ
+c	S		o	ɔ
+d	ɗ		p	p
+dh	d		r	ɾ
+jh	dʒ		s	s
+j 	dj 		dz	dz
+e	ɛ		t	t
+f	f		th	ʄ
+g	g		u	u
+h	h		v	v
+i	i		w	w
+k	k		x	ʃ
+l	l		y	j
+m	m		z	z
+
 
 #### Extralinguistic tags
 
